@@ -14,7 +14,7 @@ It focuses on adding items and blocks that were removed from the game or will li
 
 ## ⚠️ Disclaimer
 
-This mod is in early development (Alpha). It may contain bugs and can corrupt your world.  
+This mod is in early development (Alpha). It may contain bugs that can corrupt your world.  
 **Use at your own risk!**
 
 ## 🔧 Installation
