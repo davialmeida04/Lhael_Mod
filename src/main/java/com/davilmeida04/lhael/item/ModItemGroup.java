@@ -20,6 +20,8 @@ public class ModItemGroup {
                 entries.add(ModItems.RAW_RUBY_ORE);
                 entries.add(ModBlocks.RUBY_ORE);
                 entries.add(ModBlocks.RUBY_BLOCK);
+                entries.add(ModBlocks.CRYSOLIUM_ORE);
+                entries.add(ModItems.CRYSOLIUM);
             }).build());
 
 

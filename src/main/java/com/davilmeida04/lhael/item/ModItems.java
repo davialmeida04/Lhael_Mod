@@ -28,6 +28,7 @@ public class ModItems {
 
         entries.add(ModBlocks.RUBY_BLOCK);
         entries.add(ModBlocks.RUBY_ORE);
+        entries.add(ModBlocks.CRYSOLIUM_ORE);
     }
 
     public static void registerModItems() {

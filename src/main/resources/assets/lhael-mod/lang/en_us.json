@@ -1,8 +1,10 @@
 {
   "item.lhael-mod.ruby": "Ruby",
   "item.lhael-mod.raw_ruby_ore": "Raw Ruby Ore",
+  "item.lhael-mod.crysolium": "Crysolium",
 
   "block.lhael-mod.ruby_block": "Ruby Block",
   "block.lhael-mod.ruby_ore": "Ruby Ore",
+  "block.lhael-mod.crysolium_ore": "Crysolium Ore",
   "itemgroup.ruby_group": "Lhael Mod"
 }

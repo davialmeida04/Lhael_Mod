@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "ruby",
+  "ingredient": {
+    "item": "lhael-mod:raw_ruby_ore"
+  },
+  "result": "lhael-mod:ruby"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lhael-mod:ruby"
+    }
+  },
+  "result": {
+    "item": "lhael-mod:ruby_block"
+  }
+}
