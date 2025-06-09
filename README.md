@@ -1,10 +1,11 @@
-**The original Lhael Mod - the all-in-one mod**
+# The original Lhael Mod – the all-in-one mod
 
-Lhael Mod was created to be originally a **joke** mod, but now it's actually a serious mod.
-Lhael Mod focus on adds items and blocks that was removed from the game or won't be added to Minecraft.
+Lhael Mod was originally created as a joke mod, but now it's actually a serious project.  
+It focuses on adding items and blocks that were removed from the game or will likely never be added to Minecraft.
 
-Currently, this mod in on Alpha. There are many bugs that can destroy your world. Play at your own risk.
+Currently, this mod is in Alpha. There are many bugs that can corrupt your world.  
+**Play at your own risk.**
 
-**- Adds 2 ores, new picaxes and new copper tools.**
+- Adds 2 ores, new pickaxes, and new copper tools.
 
-Later, i will add a new dimension, new items, and much more.
+Later, I will add a new dimension, more items, and much more.
