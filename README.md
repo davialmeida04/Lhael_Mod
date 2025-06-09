@@ -28,3 +28,14 @@ This mod is in early development (Alpha). It may contain bugs and can corrupt yo
 
 At the moment, I do not plan to port the Lhael Mod to Forge or other Minecraft versions.  
 However, I may consider porting it in the future depending on demand and development progress.
+
+## ❓ FAQ
+
+**Q: Is this mod available for Forge?**  
+A: Not yet, but maybe in the future.
+
+**Q: Is it multiplayer compatible?**  
+A: Not tested yet — use at your own risk.
+
+**Q: Can I include this mod in a modpack?**  
+A: Yes, just give credit!
