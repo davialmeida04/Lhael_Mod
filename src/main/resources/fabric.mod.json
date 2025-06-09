@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "lhael-mod",
+	"version": "${version}",
+	"name": "Lhael Mod",
+	"description": "adds a criature called Lhael",
+	"authors": [
+		"davialmeida04"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/lhael-mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.davilmeida04.lhael.LhaelMod"
+		],
+		"client": [
+			"com.davilmeida04.lhael.LhaelModClient"
+		],
+		"fabric-datagen": [
+			"com.davilmeida04.lhael.LhaelModDataGenerator"
+		]
+	},
+	"mixins": [
+		"lhael-mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
