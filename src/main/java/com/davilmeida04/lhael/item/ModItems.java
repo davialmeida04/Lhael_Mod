@@ -16,6 +16,7 @@ public class ModItems {
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
     public static final Item RAW_RUBY_ORE = registerItem("raw_ruby_ore", new Item(new FabricItemSettings()));
     public static final Item CRYSOLIUM = registerItem("crysolium", new Item(new FabricItemSettings()));
+    public static final Item RUBY_HEART = registerItem("ruby_heart", new Item(new FabricItemSettings().maxCount(1)));
 
     private static Item registerItem(String name ,Item item) {
         return Registry.register(Registries.ITEM, new Identifier(LhaelMod.MOD_ID, name), item);
@@ -25,6 +26,8 @@ public class ModItems {
         entries.add(RUBY);
         entries.add(RAW_RUBY_ORE);
         entries.add(CRYSOLIUM);
+
+        entries.add(RUBY_HEART);
 
         entries.add(ModBlocks.RUBY_BLOCK);
         entries.add(ModBlocks.RUBY_ORE);
