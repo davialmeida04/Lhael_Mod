@@ -20,7 +20,7 @@ This mod is in early development (Alpha). It may contain bugs that can corrupt y
 ## 🔧 Installation
 
 1. Install [Fabric](https://fabricmc.net/)
-2. Download the mod from the [Releases](https://github.com/seuusuario/seurepo/releases) page.
+2. Download the mod from the [Releases](https://github.com/davialmeida04/seurepo/releases) page.
 3. Move the `.jar` file to your Minecraft `mods` folder.
 4. Launch the game and enjoy!
 
