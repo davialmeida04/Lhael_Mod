@@ -19,7 +19,7 @@ This mod is in early development (Alpha). It may contain bugs that can corrupt y
 
 ## 🔧 Installation
 
-1. Install [Fabric](https://fabricmc.net/)
+1. Install [Fabric](https://fabricmc.net/) ( and Fabric API )
 2. Download the mod from the [Releases](https://github.com/davialmeida04/Lhael_Mod/releases) page.
 3. Move the `.jar` file to your Minecraft `mods` folder.
 4. Launch the game and enjoy!
